@@ -22,13 +22,9 @@ Please note that any time the server is run in these scripts `nodemon` is used i
 ### `npm run-script dev`
 
 Runs both the client app and the server app in development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view the client in the browser.
-
 ### `npm run-script client`
 
 Runs just the client app in development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view the client in the browser.
-
 
 ### `npm run-script server`
 
